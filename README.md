@@ -1,4 +1,4 @@
-# Covid Project
+# Covid Data Analysis Project
 
 Hello :)
 
